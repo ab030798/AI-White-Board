@@ -1,4 +1,4 @@
-# Air-Canvas-with-ML
+# AI white board-with-ML
 Computer vision project implemented with OpenCV with Machine learning using the Mediapipe
 
 Ever wanted to draw your imagination by just waiving your finger in air. In this post we will learn to build an Air Canvas which can draw anything on it by just motion of our hands and noticing the landmark on the hand knuckels. A very beautiful project for resume of machine learning people.
